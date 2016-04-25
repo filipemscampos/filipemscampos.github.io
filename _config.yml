@@ -1,0 +1,29 @@
+# Site settings
+title: LáVouEu
+email: lavoueu.blog@gmail.com
+description: Blog de viagem e fotografia. Tenha a melhor experência fotográfica, saiba como chegar, onde se posicionar e como fotografar cada lugar que você visita.
+# baseurl: "/writer/" # the subpath of your site, e.g. /blog
+url: "http://www.lavoueu.blog.br" # the base hostname & protocol for your site
+enable_retina: false # Documentação: http://imulus.github.io/retinajs/
+permalink: /:title/
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
+  Home_Alt_2 : ['Home Alt 2', '/home-alt-2/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+  Contact : ['Contact', '/contact', 'fa-plane']
+  Author : ['Author', '/author/michelle', 'fa-user']
+
+single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'  #aparece nas páginas avulsas, as com "layout: page"
+footer_links:
+    About: ['About', '/about']
+    Writer: ['Writer 2015', '/about']
+
+
+# Build settings
+markdown: kramdown
+
+timezone: America/Sao_Paulo
+
+gems:
+- jekyll-textile-converter
