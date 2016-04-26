@@ -27,3 +27,17 @@ timezone: America/Sao_Paulo
 
 gems:
 - jekyll-textile-converter
+
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: post-sidebar
+      author_name : Filipe M. S. de Campos
+      author_url : author/filipe
+      author_avatar: filipe
+      show_avatar : false
+      read_time : 0

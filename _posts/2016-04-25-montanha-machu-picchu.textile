@@ -1,21 +1,20 @@
 ---
-layout: post #-sidebar
+layout: post
 
-title: "Montanha Machu Picchu"
+title: "Montanha Machu Picchu, minha experência lá e pq não a whyna picchu?"
+
+Montanha Machu Picchu, mas e Wyana Picchu?
+Montanha Machu Picchu, mas porque não Wyana Picchu?
+
+Montanha Machu Picchu ou Wayna Picchu? Qual subir e como foi minha subida
+
 date: 2016-04-25 10:19:00 -0300
 categories: viagem
 tags: peru cusco machupicchu montanha
 
-
-author_name : Filipe M. S. de Campos
-author_url : author/filipe
-author_avatar: filipe
-show_avatar : false
-
-read_time : 34
 feature_image: feature-wolf
 show_related_posts: false
-square_related: recommend-wolf
+square_related: recommend-wolf  #To ensure correct sizing this image should should be a square (1:1 aspect ratio) and of a minimum size of 800x800.
 
 ---
 
@@ -30,7 +29,9 @@ falar isso que é bom rever o padrão
 -> roupa 
 -> água
 -> repelente
+-> protetor
 
+melhor época pra ir e tempo/clima lá
 
 
 
@@ -53,6 +54,9 @@ E, claro, muitas fotos!
 
 o guia falou q ela era menos procurada pq era mais difícil, demorava mais, cansa muito mais, mas é o único ponto do parque que tem a vista 360graus da região
 
+
+
+critério do perigo:  MMP menos perigoso W/H P mais perigoso
 
 
 
