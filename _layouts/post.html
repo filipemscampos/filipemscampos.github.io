@@ -3,14 +3,15 @@ layout: default
 ---
 
 <header class="hero-image" style="background-image: url({{ site.baseurl }}/img/{{page.feature_image}}.jpg);">
-    <span class="menu-trigger animated fadeInDown">
+    <!-- <span class="menu-trigger animated fadeInDown">
         <span class="bar"></span>
         <span class="bar"></span>
         <span class="bar"></span>
-    </span>
-
+    </span> -->
+    {% comment %}
     {% include nav-no-js.html %}
     {% include nav.html %}
+    {% endcomment %}
 </header>
 
 <main class="container">
