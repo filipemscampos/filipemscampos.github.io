@@ -19,6 +19,7 @@ footer_links:
     Sobre: ['Sobre este blog', '/sobre']
     Contato: ['Contato', '/contato']
 
+repository: https://github.com/filipemscampos/filipemscampos.github.io.git
 
 # Build settings
 markdown: kramdown
