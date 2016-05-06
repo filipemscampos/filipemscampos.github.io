@@ -1,7 +1,10 @@
 ---
 layout: post
 
-title: "Montanha Machu Picchu ou Huayna Picchu? Diferenças e minha subida na primeira"
+title: "Montanha Machu Picchu ou Huayna Picchu? E minha subida na primeira"
+
+permalink: /montanha-machu-picchu-ou-huayna-picchu-ingresso-o-que-levar-subida
+meta_description: Entenda a diferença entre as montanhas para saber qual subir, saiba qual ingresso comprar, o que levar e minha experiência subindo a Montanha Machu Picchu.
 
 date: 2016-04-25 10:19:00 -0300
 categories: viagem
@@ -319,11 +322,8 @@ call to action pros comentários
 Ler aqueles 3 links sobre as montanhas que eu achei (concorrentes)
 
 Ajeitar o site:
-- Disqus
-- Analytics
 - botar um link pra home com o nome do site no lugar de onde era o botão do menu
-- decidir e botar na página o título, descrição e URL
-- Variável de produção e de dev
+
 
 - negritos para facilitar a leitura do texto
 - Arrumar tamanho de fonte das listas e da tabela

@@ -5,7 +5,7 @@ description: Blog de viagem e fotografia. Tenha a melhor experência fotográfic
 # baseurl: "/writer/" # the subpath of your site, e.g. /blog
 url: "http://www.lavoueu.blog.br" # the base hostname & protocol for your site
 enable_retina: false # Documentação: http://imulus.github.io/retinajs/
-permalink: /:title/
+permalink: /:title
 nav_list:
   Home : ['Home', '/', 'fa-home']
   Home_Alt : ['Home Alt', '/home-alt', 'fa-home']
