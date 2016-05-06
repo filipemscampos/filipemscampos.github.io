@@ -1,0 +1,8 @@
+---
+layout: page
+title: Sobre o blog
+permalink: /sobre/
+feature_image: feature-book
+---
+
+Filipe, você ainda não contou para o pessoal como tudo começou!

@@ -319,23 +319,17 @@ call to action pros comentários
 Ler aqueles 3 links sobre as montanhas que eu achei (concorrentes)
 
 Ajeitar o site:
-- Caminho de pão
-- Títulos
 - Disqus
 - Analytics
-- Personalizar o footer do artigo
-- remover os botões do menu à esquerda
-- tirar o monte de imagens e posts do exemplo
-- tirar as homes alternativas (q inclusive foram indexadas pelo Google)
-- adicionar  a pasta dos _drafts (botar o post de MP lá)
-- Compilar do jeito que tá pra botar no ar duma vez
-- Esconder o email com o plugin
+- botar um link pra home com o nome do site no lugar de onde era o botão do menu
 - decidir e botar na página o título, descrição e URL
 - Variável de produção e de dev
 
 - negritos para facilitar a leitura do texto
 - Arrumar tamanho de fonte das listas e da tabela
 - desencavalar o texto (h1,2 e 3 muito próximos do texto)
+- Caminho de pão
+- Personalizar o footer do artigo
 
 IMGs:
 - Imagens da home
@@ -346,13 +340,14 @@ Compilação aprimorada:
 - novo repositório pro código (bitbucket)
 - compilar local usando o -lsi (deixar na versão mais atual do jekyll)
 - site map
+- Esconder o email com o plugin
 - ver outras dicas e truques (ver em http://jekyll.tips e naquele projeto de layout bacana e tb talvez no jekyllboostrap se é q tem algo útil lá)
 - ver como automatizar a compilação com o Travis
 
 Extras:
 - Trocar a tipografia (ver os exemplos dos outros layouts legais)
 - Página do sobre mim e sobre o blog
-
+- Lista de emails
 
 
 <!-- 

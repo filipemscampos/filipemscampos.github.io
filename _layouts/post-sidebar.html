@@ -56,6 +56,10 @@ layout: default
 
 </main> <!-- /container -->
 
+{% if jekyll.environment == "production" %}
+   {% include disqus.html %}
+{% endif %}
+
 <footer class="single">
     {% include footer-single.html %}
 

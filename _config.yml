@@ -14,10 +14,10 @@ nav_list:
   Contact : ['Contact', '/contact', 'fa-plane']
   Author : ['Author', '/author/michelle', 'fa-user']
 
-single_footer: '<p>The writer community loves your content. Writer &copy; 2015 <a href="/">latest posts</a></p>'  #aparece nas páginas avulsas, as com "layout: page"
+single_footer: '<p>Vamos viajar e fotografar em diversos lugares do mundo! - LáVouEu - Copyright &copy; <script> document.write(new Date().getFullYear()) </script> - <a href="http://www.lavoueu.blog.br">Últimos artigos</a></p>'  #aparece nas páginas avulsas, as com "layout: page"
 footer_links:
-    About: ['About', '/about']
-    Writer: ['Writer 2015', '/about']
+    Sobre: ['Sobre este blog', '/sobre']
+    Contato: ['Contato', '/contato']
 
 
 # Build settings

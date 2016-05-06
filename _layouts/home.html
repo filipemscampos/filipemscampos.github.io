@@ -3,8 +3,8 @@ layout: with-sidebar
 ---
 
 <div class="sub-nav">
-    <a href="#" class="select-posts active">Posts</a>
-    <a href="#" class="select-categories">Categories</a>
+    <a href="#" class="select-posts active">Artigos</a>
+    <!-- <a href="#" class="select-categories">Categorias</a> -->
 </div>
 
 <div class="home-page-posts animated fadeIn ">
@@ -14,10 +14,10 @@ layout: with-sidebar
         <div class="post-preview col-xs-10  no-gutter">
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-            <!-- {{ post.excerpt | truncatewords: 28 }} -->
+            {{ post.excerpt | truncatewords: 28 }}
 
             <!-- <p class="meta">
-                <a href="{{ post.author_url | prepend: site.baseurl }}">{{ post.author_name | capitalize}}</a> in <a href='{{ "/category/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize }}</a> 
+                <a href="{{ post.author_url | prepend: site.baseurl }}">{{ post.author_name | capitalize}}</a> in <a href='{{ "/categoria/" | append: post.categories.first | prepend: site.baseurl }}'>{{ post.categories.first | capitalize }}</a> 
                 {% if page.read_time > 0 %}
                     <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ post.read_time }} minutes
                 {% endif %}
