@@ -27,7 +27,9 @@ markdown: kramdown
 timezone: America/Sao_Paulo
 
 gems:
-- jekyll-textile-converter
+  - jekyll-textile-converter
+  - jekyll-redirect-from
+# - jekyll-email-protect
 
 
 defaults:

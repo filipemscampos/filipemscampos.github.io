@@ -4,6 +4,7 @@ layout: post
 title: "Montanha Machu Picchu ou Huayna Picchu? E minha subida na primeira"
 
 permalink: /montanha-machu-picchu-ou-huayna-picchu-ingresso-o-que-levar-subida
+redirect_from: /montanha-machu-picchu/
 meta_description: Entenda a diferença entre as montanhas para saber qual subir, saiba qual ingresso comprar, o que levar e minha experiência subindo a Montanha Machu Picchu.
 
 date: 2016-04-25 10:19:00 -0300
@@ -313,7 +314,7 @@ A vida muitas vezes é uma subida de Montanha Machu Picchu... Força!
 
 call to action pros comentários
 
-
+  
 
 
 
@@ -348,7 +349,8 @@ Extras:
 - Trocar a tipografia (ver os exemplos dos outros layouts legais)
 - Página do sobre mim e sobre o blog
 - Lista de emails
-
+- Compartilhamentos
+- Quando alguém seleciona um texto, ela pode marcar isso (precisa de BD né?), compartilhar esse trexo e quadno copiar, no cmd+c juntar tb algo como "veja/leia mais em: url do post"
 
 <!-- 
 Fontes
