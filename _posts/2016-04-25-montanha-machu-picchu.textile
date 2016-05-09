@@ -11,7 +11,7 @@ date: 2016-04-25 10:19:00 -0300
 categories: viagem
 tags: peru cusco machupicchu montanha
 
-feature_image: feature-wolf
+feature_image: placa-altitude-montanha-machu-picchu-lavoueu
 show_related_posts: false
 square_related: recommend-wolf  #To ensure correct sizing this image should should be a square (1:1 aspect ratio) and of a minimum size of 800x800.
 
@@ -91,11 +91,15 @@ h3. O que o guia comentou e algumas informações a mais
 
 Durante o passeio guiado pela cidadela, o nosso guia comentou sobre as montanhas, principalmente quando passamos em frente ao caminho para a entrada de Huayna Picchu. O guia comentou que essa era a montanha mais procurada, por ter uma subida menos cansativa (menos demorada) que a outra, nessa hora ele deu um sorrisinho maroto, e aí pensei, "xi, tô lascado" hehehe. Ele comentou também que na Montanha Machu Picchu as pessoas em geral demoram só para subir em torno de 1h30 a 2h, e eu te confirmo essa informação (quanto eu demorei? continue a leitura...). Tentando animar um pouco as provávies caras tristes que ele deve ter visto, compeltou dizendo que a Montanha Machu Picchu era o único lugar do parque que se pode ter uma visão 360 graus da região. Não sei ao certo por que não seria possível ter uma vista 360° no topo de Huayna Picchu, se você souber, deixa um comentário!
 
+TENHO UMA FOTO DA ENTRADA DE HUYAINA PICCHU  8854
+
 Ele também nos contou duas histórias de acidentes em Huayna Picchu. A pimeira foi uma pessoa que caiu da montanha. Felizmente ela teve sorte e caiu em cima de árvores que amorteceram a queda e a pessoa sobreviveu depois de ser resgatada. Já na outra história, um senhor de mais idade conseguiu chegar até o topo, mas durante a descida, já perto do fim, ele desequilibrou e quase caiu abismo abaixo, claro que isso gera uma tensão e um pico no batimento cardíaco, foi o suficente para o senhor infartar e falecer. Enfim, histórias... 
 
 Menos assustador, mas mais frequente, segundo o guia, são as pessoas que travam no meio da subida e precisam ser retiradas pelo pessoal do parque lá de cima. "Como assim travam, Filipe?" Subir uma montanha de cara ou de costas para o abismo não é algo seguro, segurança não é o forte da subida de Huayna Picchu. Muito menos agradável se você tem problemas com altitude, eu por exemplo não fico confortável na beira de varandas de prédios ou qualquer outra coisa alta. Então as pessoas simplesmente travam, não vão nem vem, não conseguem nem subir e nem voltar. Se você também não se sente confortável nessas condições, a escolha da montanha adequada para você ficou fácil, vai ser como eu, Montanha Machu Picchu!
 
-Outras infromações ainda são válidas. O pico da montanha Huayna Picchu fica a 2720 metros acima do nivel do mar, o que dá uma subida de aproximadamente 270 metros partindo da cidadela (considerando a altitude da praça central). Já o pico da Montanha Machu Picchu fica a TODO metros acima do nível do mar, uma subida de TODO metros, considerando novamente a altitude da praça central da cidade inca. Se você decidir subir Huayna Picchu, você também vai poder apreciar ruias incas antes da subida, o Templo da Lua, e também próximo ao topo da montanha. O Templo da Lua e outras cavernas naturais próximas, ficam na face norte da montanha e são inferiores, em altitude, ao ponto de partida da trilha.
+Outras infromações ainda são válidas. O pico da montanha Huayna Picchu fica a 2720 metros acima do nivel do mar, o que dá uma subida de aproximadamente 270 metros partindo da cidadela (considerando a altitude da praça central, 2453m). Já o pico da Montanha Machu Picchu fica a 3061 metros acima do nível do mar, uma subida de 608 metros, considerando novamente a altitude da praça central da cidade inca. Se você decidir subir Huayna Picchu, você também vai poder apreciar ruias incas antes da subida, o Templo da Lua, e também próximo ao topo da montanha. O Templo da Lua e outras cavernas naturais próximas, ficam na face norte da montanha e são inferiores, em altitude, ao ponto de partida da trilha.
+
+
 
 
 h3. Tabela resumo sobre as montanhas
@@ -331,6 +335,10 @@ Ajeitar o site:
 - desencavalar o texto (h1,2 e 3 muito próximos do texto)
 - Caminho de pão
 - Personalizar o footer do artigo
+- colocar ga nos link do que "vc vai aprender lendo o artigo".  article_index_links, nome do post, nome do link
+- lirar o LáVouEu do fim do título. Não curti, come espaço do título 
+- precisa de mais contraste (sombras) nas letras na home qunado o texto fica com o fundo de nuvens.
+- ainda na home no texto, ñ precia daquele risco no fim dele e o posicionamento do texto tem q ficar em baixo tb na visão do cel (ta no meio da imagem)  mas qdo tirar o risco, o texto na home tem q cair mais um pouco também.
 
 IMGs:
 - Imagens da home
@@ -351,6 +359,7 @@ Extras:
 - Lista de emails
 - Compartilhamentos
 - Quando alguém seleciona um texto, ela pode marcar isso (precisa de BD né?), compartilhar esse trexo e quadno copiar, no cmd+c juntar tb algo como "veja/leia mais em: url do post"
+- o treco que reduz o tamanho das imagens arranca todas as minhas infos da imagem e ainda bota uma URL pra ele... ñ é legal isso. comparar os ganhos q teria salvando pra web e usando o ImageOptim
 
 <!-- 
 Fontes
