@@ -18,7 +18,7 @@ square_related: recommend-wolf  #To ensure correct sizing this image should shou
 ---
 
 
-Subir a Montanha Machu Picchu, apesar de bastante exaustivo, foi uma das experiências mais gratificantes da minha vida. Mas vamos começar do começo. Tenho certeza que muitos que lerão esse texto devem estar se perguntando algo como "Como assim subir a montanha Machu Picchu? Machu Picchu não é ... Machu Picchu? Ruinas de uma cidadezinha Inca super turística em um lugar fantástico. Precisa escalar uma montanha para chegar lá?".
+Subir a Montanha Machu Picchu, apesar de bastante exaustivo, foi uma das experiências mais gratificantes da minha vida. Mas vamos começar do começo. Tenho certeza que muitos que lerão esse texto devem estar se perguntando algo como "Como assim subir a montanha Machu Picchu? Machu Picchu não é ... Machu Picchu? Ruínas de uma cidadezinha Inca super turística em um lugar fantástico. Precisa escalar uma montanha para chegar lá?".
 
 
 O que você vai aprender nesse artigo:
@@ -34,6 +34,12 @@ O que você vai aprender nesse artigo:
 * E, claro, muitas *fotos*!
 
 
+PRECISA DE UMA IAMGEM AQUI
+uma vista de MP pequena lá do alto da montanha
+hum!
+ou talvez a vista do parque todo! ilustra o parque
+
+vista de mp sozinha foto nível 3estrela que aparece o "parque todo"
 
 <!-- TODO:
 O que você ainda pode aprender sobre o assunto no LáVouEu:
@@ -49,17 +55,19 @@ O que você ainda pode aprender sobre o assunto no LáVouEu:
 h2. O básico sobre a *cidadela* de Machu Picchu e suas montanhas
 
 
-Machu Picchu era uma cidade construída e habitada pelos incas ao redor do ano 1450. Hoje, ela é o que restou dessa cidade, então são ruinas da cidade perdida dos incas, como também é apelidada. Sendo ainda mais específico, a cidadela e seus arredores constituem de certa forma um parque, com portaria, catracas, conferência de ingressos e com todo um sistema de transporte para chegar lá. Sim, você não precisa subir montanhas para chegar lá! Tipicamente, você pode ir de trêm partindo de Cusco e depois de ônibos de Aguas Calientes até a porta do parque. Mas se quiser, também é possível chegar lá pela famosa Trilha Inca ou então Salkantay, depende do grau de aventura que você quer para sua viagem.
+Machu Picchu foi uma cidade construída e habitada pelos incas ao redor do ano 1450. Hoje, ela é o que restou dessa cidade, então são ruínas da cidade perdida dos incas, como também é apelidada. Sendo ainda mais específico, a cidadela e seus arredores constituem de certa forma um parque, com portaria, catracas, conferência de ingressos e com todo um sistema de transporte para chegar lá. Sim, você não precisa subir montanhas para chegar lá! Tipicamente, você pode ir de trem partindo de Cusco e depois de ônibus de Aguas Calientes até a porta do parque. Mas se quiser, também é possível chegar lá pela famosa Trilha Inca ou então Salkantay, depende do grau de aventura que você quer para sua viagem.
 
 <!-- TODO: futuramente linkar com o post sobre MP -->
 
 A cidadela é cercada por duas montanhas. A montanha de mesmo nome que a cidadela, portanto, Montanha Machu Picchu e a Montanha Huayna Picchu. A primeira, significa "velha montanha" e a segunda "jovem montanha". Você pode subir até o topo das duas e suas entradas ficam dentro do próprio parque. No mapa abaixo você consegue ter uma ideia melhor da localização da cidade inca e suas montanhas.
 
-na real quero essa aqui pq inclui aguas caleintes tb
-https://www.google.com.br/maps/@-13.1617875,-72.5376554,15z   (mapa)
+PRECISA DE UMA IAMGEM AQUI
+colocar imagem esclarecedora do google earth
+
+Link do google maps para MP:
 https://www.google.com.br/maps/@-13.1617875,-72.5376554,3773m/data=!3m1!1e3    (satélite)
 
-Ao longo do texto, as imagens também vão te ajudar a enteder melhor a região. Vamos agora conhecer cada uma das montanhas para poder decidir qual subir.
+Ao longo do texto, as imagens também vão te ajudar a entender melhor a região. Vamos agora conhecer cada uma das montanhas para poder decidir qual subir.
 
 
 
@@ -69,7 +77,7 @@ h2. Montanha Machu Picchu ou Huayna Picchu? Qual escolher
 
 Pois bem, agora você já está ambientado com Machu Picchu, já sabe o básico e tem ideia de onde fica e como chegar. Ótimo. Agora vamos elevar nossa experiência na cidadela ao seu máximo, vamos conhecer as montanhas que existem por lá.
 
-Algumas pessoas me perguntam: "mas eu terei uma experiência frustrada se não subir alguam das montanhas?" e eu te digo: claro que não! Você provavelmente terá um passeio muito bancana conhecendo a cidadela e dependendo do quanto você quiser conhecer e gastar tempo nos principais pontos dela, você nem terá tempo para subir uma das montanhas em um dia só. Então veja o que funciona melhor para você. Mas se você tiver a oportunidade de subir, como no meu caso, isso fez toda a diferença e foi o momento épico da viagem toda (passei 1 mês no Peru). Então se você está afim de tornar Machu Picchu um momento inesquecível na sua vida, recomendo fortemente a subida! (ao menos a da Montanha Machu Picchu, que foi a que subi)
+Algumas pessoas me perguntam: "mas eu terei uma experiência frustrada se não subir alguma das montanhas?" e eu te digo: claro que não! Você provavelmente terá um passeio muito bacana conhecendo a cidadela e dependendo do quanto você quiser conhecer e gastar tempo nos principais pontos dela, você nem terá tempo para subir uma das montanhas em um dia só. Então veja o que funciona melhor para você. Mas se você tiver a oportunidade de subir, como no meu caso, isso fez toda a diferença e foi o momento épico da viagem toda (passei 1 mês no Peru). Então se você está afim de tornar Machu Picchu um momento inesquecível na sua vida, recomendo fortemente a subida! (ao menos a da Montanha Machu Picchu, que foi a que eu subi)
 
 
 
@@ -77,28 +85,40 @@ h3. As montanhas
 
 A imagem padrão de Machu Picchu é extremamente conhecida e você pode observar mais uma vez na imagem abaixo. Nela, já podemos ver uma das montanhas, essa é a Huayna Picchu (ou Wayna Picchu) como indicado na foto.
 
-FOTO DE MP com indicação de Huayan
+FOTO DE MP com indicação de Huayna
 
-A outra montanha fica exatamente na vista contrária, então vamos usar a vista do topo de Huayna Piccho para observar a Montanha Machu Picchu. Na imagem abaixo, você pode apreciar a vista que terá ao subir Huayna Picchu, que é uma vista reversa à imagem que estamos acostumados a ver a cidade inca. Nessa imagem é possível ter ideia da imensidão e beleza desse lugar, além de você poder conferir o topo da Montanha Machu Picchu que está indicado da imagem.
+A outra montanha fica exatamente na vista contrária, então vamos usar a vista do topo de Huayna Picchu para observar a Montanha Machu Picchu. Na imagem abaixo, você pode apreciar a vista que terá ao subir Huayna Picchu, que é uma vista reversa à imagem que estamos acostumados a ver a cidade inca. Nessa imagem é possível ter ideia da imensidão e beleza desse lugar, além de você poder conferir o topo da Montanha Machu Picchu que está indicado da imagem.
 
 BOTAR ESSA FOTO: https://en.wikipedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.jpg
 
 Eu subi a outra montanha, então não pude apreciar essa vista. Mas em compensação pude ver a cidadela em sua vista padrão ficar cada vez menor conforme subia a montanha. Também da para perceber facilmente que vamos ganhando altura, inclusive ultrapassando o topo de Huayna Picchu.
 
 
+PRECISA DE UMA IAMGEM AQUI
+colocar uma sequência de imagens mostrando que vai ficando mais alto!
+cidadela diminuindo / Huayna antes alta a depois baixa
+
+
 
 h3. O que o guia comentou e algumas informações a mais
 
-Durante o passeio guiado pela cidadela, o nosso guia comentou sobre as montanhas, principalmente quando passamos em frente ao caminho para a entrada de Huayna Picchu. O guia comentou que essa era a montanha mais procurada, por ter uma subida menos cansativa (menos demorada) que a outra, nessa hora ele deu um sorrisinho maroto, e aí pensei, "xi, tô lascado" hehehe. Ele comentou também que na Montanha Machu Picchu as pessoas em geral demoram só para subir em torno de 1h30 a 2h, e eu te confirmo essa informação (quanto eu demorei? continue a leitura...). Tentando animar um pouco as provávies caras tristes que ele deve ter visto, compeltou dizendo que a Montanha Machu Picchu era o único lugar do parque que se pode ter uma visão 360 graus da região. Não sei ao certo por que não seria possível ter uma vista 360° no topo de Huayna Picchu, se você souber, deixa um comentário!
+Durante o passeio guiado pela cidadela, o nosso guia comentou sobre as montanhas, principalmente quando passamos em frente ao caminho para a entrada de Huayna Picchu. O guia comentou que essa era a montanha mais procurada, por ter uma subida menos cansativa (menos demorada) que a outra, nessa hora ele deu um sorrisinho maroto, e aí pensei, "xi, tô lascado" hehehe. Ele comentou também que na Montanha Machu Picchu as pessoas em geral demoram só para subir em torno de 1h30 a 2h, e eu te confirmo essa informação (quanto eu demorei? continue a leitura...). Tentando animar um pouco as prováveis caras tristes que ele deve ter visto, completou dizendo que a Montanha Machu Picchu era o único lugar do parque que se pode ter uma visão 360 graus da região. Não sei ao certo por que não seria possível ter uma vista 360° no topo de Huayna Picchu, se você souber, deixa um comentário!
 
 TENHO UMA FOTO DA ENTRADA DE HUYAINA PICCHU  8854
 
-Ele também nos contou duas histórias de acidentes em Huayna Picchu. A pimeira foi uma pessoa que caiu da montanha. Felizmente ela teve sorte e caiu em cima de árvores que amorteceram a queda e a pessoa sobreviveu depois de ser resgatada. Já na outra história, um senhor de mais idade conseguiu chegar até o topo, mas durante a descida, já perto do fim, ele desequilibrou e quase caiu abismo abaixo, claro que isso gera uma tensão e um pico no batimento cardíaco, foi o suficente para o senhor infartar e falecer. Enfim, histórias... 
+Ele também nos contou duas histórias de acidentes em Huayna Picchu. A primeira foi uma pessoa que caiu da montanha. Felizmente ela teve sorte e caiu em cima de árvores que amorteceram a queda e a pessoa sobreviveu depois de ser resgatada. Já na outra história, um senhor de mais idade conseguiu chegar até o topo, mas durante a descida, já perto do fim, ele desequilibrou e quase caiu abismo abaixo, claro que isso gera uma tensão e um pico no batimento cardíaco, foi o suficiente para o senhor enfartar e falecer. Enfim, histórias... 
+
+PRECISA DE UMA IAMGEM AQUI
+sim, algumas pessoas já estavam no topo de HP enquanto fazíamos nosso passeio guiado
 
 Menos assustador, mas mais frequente, segundo o guia, são as pessoas que travam no meio da subida e precisam ser retiradas pelo pessoal do parque lá de cima. "Como assim travam, Filipe?" Subir uma montanha de cara ou de costas para o abismo não é algo seguro, segurança não é o forte da subida de Huayna Picchu. Muito menos agradável se você tem problemas com altitude, eu por exemplo não fico confortável na beira de varandas de prédios ou qualquer outra coisa alta. Então as pessoas simplesmente travam, não vão nem vem, não conseguem nem subir e nem voltar. Se você também não se sente confortável nessas condições, a escolha da montanha adequada para você ficou fácil, vai ser como eu, Montanha Machu Picchu!
 
-Outras infromações ainda são válidas. O pico da montanha Huayna Picchu fica a 2720 metros acima do nivel do mar, o que dá uma subida de aproximadamente 270 metros partindo da cidadela (considerando a altitude da praça central, 2453m). Já o pico da Montanha Machu Picchu fica a 3061 metros acima do nível do mar, uma subida de 608 metros, considerando novamente a altitude da praça central da cidade inca. Se você decidir subir Huayna Picchu, você também vai poder apreciar ruias incas antes da subida, o Templo da Lua, e também próximo ao topo da montanha. O Templo da Lua e outras cavernas naturais próximas, ficam na face norte da montanha e são inferiores, em altitude, ao ponto de partida da trilha.
 
+Outras informações ainda são válidas. O pico da montanha Huayna Picchu fica a 2720 metros acima do nível do mar, o que dá uma subida de aproximadamente 270 metros partindo da cidadela (considerando a altitude da praça central, 2453m). Já o pico da Montanha Machu Picchu fica a 3061 metros acima do nível do mar, uma subida de 608 metros, considerando novamente a altitude da praça central da cidade inca. Se você decidir subir Huayna Picchu, você também vai poder apreciar ruínas incas antes da subida, o Templo da Lua, e também próximo ao topo da montanha. O Templo da Lua e outras cavernas naturais próximas, ficam na face norte da montanha e são inferiores, em altitude, ao ponto de partida da trilha.
+
+
+PRECISA DE UMA IAMGEM AQUI
+fazer uma foto lado a lado, tipo HP x MMP
 
 
 
@@ -110,23 +130,23 @@ Vamos a uma tabela pra resumir as características das montanhas e facilitar sua
 |Altitude do topo|2720|30XY TODO|
 |Tempo de subida, topo e descida|2h30 *[1]|3h50[2]|
 |Perigo|Mais perigosa[3]|Menos perigosa[4]|
-|Você sente desconforto em altitude?|Não recomendada|Da para subir sem grandes probemas|
+|Você sente desconforto em altitude?|Não recomendada|Da para subir sem grandes problemas|
 |Concorrência para comprar ingresso|Alta|Baixa|
 |Vista|Reversa à vista padrão de Machu Picchu|Vista padrão de Machu Picchu e no topo a visão de 360° da região|
-|Subida ingreme?|Subida ingreme paraticamente o tempo todo|Ingreme mais para o fim do trajeto|
+|Subida íngreme?|Subida íngreme praticamente o tempo todo|Íngreme mais para o fim do trajeto|
 |Possui ruínas|Sim|Não|
 |Cansaço|Exige menos fisicamente [5]|Exige mais fisicamente|
 
 
 [1] um outro casal carioca que conheci no passeio guiado pela cidadela subiu Huayna Picchu, eles demoraram por volta de 2h30 para subir e descer.
-[2] Óbviamente o tempo vai variar. Esse foi o meu tempo consideranado 20 minutos no topo. Algumas pessoas podem subir a montanha mais rápido, mais perto de 1h30 de subida e também descer mais rápido, por volta de 45 minutos, o que daria um total de 2h45 com meia hora no topo.
+[2] Obviamente o tempo vai variar. Esse foi o meu tempo considerando 20 minutos no topo. Algumas pessoas podem subir a montanha mais rápido, mais perto de 1h30 de subida e também descer mais rápido, por volta de 45 minutos, o que daria um total de 2h45 com meia hora no topo.
 
 TODO: deixar mais genérico e com um intervalo... tirar o tempo no topo, só confunde....
 pegar mais tempos de subida!
 
-[3] Você se encontrará com frequência em sitauções de cara/costas para o abismo sem muitos itens de segurança ou proteção. Um escorregão ou desequilibro por ser fatal.
-[4] Eu não disse segura, eu escrevi menos perigosa. Na maior parte do tempo o caminho é largo, você nem enxerga o abismo ou algo assim, é tranquilo. Mas em alguns momentos o caminho estreita e fica um pouco mais perigoso sim. Como eu comentei, eu não me sinto bem em altitude, mas em nenhum momento da subida eu senti isso. Lá no topo, perto das bordas, aí sim eu senti descoforto, mas o cume é grande o suficinete para você ficar lá sem desconfoto nenhum, é só não chegar perto da beirada.
-[5] Eu disse que exige menos fisicamente, pois a subida é mais curta. Isso está longe de dizer que não é consativo, ok?
+[3] Você se encontrará com frequência em situações de cara/costas para o abismo sem muitos itens de segurança ou proteção. Um escorregão ou desequilibro por ser fatal.
+[4] Eu não disse segura, eu escrevi menos perigosa. Na maior parte do tempo o caminho é largo, você nem enxerga o abismo ou algo assim, é tranquilo. Mas em alguns momentos o caminho estreita e fica um pouco mais perigoso sim. Como eu comentei, eu não me sinto bem em altitude, mas em nenhum momento da subida eu senti isso. Lá no topo, perto das bordas, aí sim eu senti desconforto, mas o cume é grande o suficiente para você ficar lá sem desconforto nenhum, é só não chegar perto da beirada.
+[5] Eu disse que exige menos fisicamente, pois a subida é mais curta. Isso está longe de dizer que não é cansativo, ok?
 
 
 
@@ -137,12 +157,16 @@ pegar mais tempos de subida!
 
 h2. Ingresso Machu Picchu, qual e como comprar
 
-
 Lembra que o guia comentou que Huayna Picchu era mais procurada? Pois bem, os ingressos para ela se esgotam com bastante antecedência. Mas como assim esgota? Não é só entrar lá? Não! Nem lá, nem em Machu Picchu e nem na Montanha Machu Picchu. Inclusive as duas montanhas tem uma portaria dentro do próprio parque que fica fechada fora dos horários permitidos e ao chegar lá você vai ter que se identificar antes de subir.
 
 Existe um limite diário do número de pessoas que podem entrar no parque (2500) e também em cada uma das montanhas. Para as montanhas o limite é de 400 pessoas, divididas em dois grupos de 200 pessoas em dois horários de partida distintos para Huayna e 800, dois blocos de 400, para a Montanha. Não se esqueça de comprar seu ingresso com antecedência para garantir seu lugar lá.
 
 Depois que você escolheu se vai subir alguma montanha e qual montanha será, fica fácil escolher seu ingresso. Tirando o Machupicchu horário vespertino, você tem três grandes opções: Machupicchu (ingresso para entrada no parque, sem nenhuma montanha), Machupicchu + Huaynapicchu e Machupicchu + Montaña (Montanha Machu Picchu). Para os dois ingressos que incluem montanhas, eles estão divididos em dois, pois existem dois horários de subida que eu comentei. No próprio nome do ingresso está escrito o horário de chegada na portaria da montanha para poder subir. Escolha o horário que se adeque melhor ao seu planejamento.
+
+
+PRECISA DE UMA IAMGEM AQUI
+scan do meu ingresso de MP
+na legenda comentar do número de vezes que se pode sair do parque
 
 
 Para comprar o ingresso você deve ir no <a href="http://www.machupicchu.gob.pe" title="Site oficial para compra do ingresso de Machu Picchu" target="_blank">site oficial</a> e realizar a compra lá. A princípio, é tranquilo, portanto você não precisa de intermediários para a compra do ingresso. 
@@ -160,11 +184,11 @@ Entretanto, o sistema do site peruano não aceita qualquer cartão, eles aceitam
 
 h2. O que levar?
 
-Como toda região de montanha, o padrão é ser um pouco mais fresquinho que as cidades mais baixas, mas quando sai o sol esquenta e quando ele vai embora esfria rapidamente. O melhor, ao invés de ficar preso às médias de temperatura (de 9°C a 29°C) é observar a previsão do tempo para o dia que você estiver por lá e saber que: quando sair o sol vai esquentar e qundo ele se for esfriará. Esteja pronto para as duas situações e, como provavelmente você ainda vai subir uma das montanhas, tenha certeza que o seforço físico te dará calor :). Então, esteja pronto para todas essas situações.
+Como toda região de montanha, o padrão é ser um pouco mais fresquinho que as cidades mais baixas, mas quando sai o sol esquenta e quando ele vai embora esfria rapidamente. O melhor, ao invés de ficar preso às médias de temperatura (de 9°C a 29°C) é observar a previsão do tempo para o dia que você estiver por lá e saber que: quando sair o sol vai esquentar e quando ele se for esfriará. Esteja pronto para as duas situações e, como provavelmente você ainda vai subir uma das montanhas, tenha certeza que o esforço físico te dará calor :). Então, esteja pronto para todas essas situações.
 
 * Passaporte para entrada no parque e nas montanhas;
 * Ingresso impresso (servirá tanto para entrar no parque quanto na montanha);
-* Vista roupas adequadas à previsão de temparatura do dia, confortáveis e apropriadas para caminhar bastante por lá, além de subir a montanha desejada (você já vai fazer esforço suficiente, não queria sua roupa ou calçado te atrapalhando!);
+* Vista roupas adequadas à previsão de temperatura do dia, confortáveis e apropriadas para caminhar bastante por lá, além de subir a montanha desejada (você já vai fazer esforço suficiente, não queria sua roupa ou calçado te atrapalhando!);
 * Água [6];
 * Repelente;
 * Protetor solar;
@@ -172,7 +196,7 @@ Como toda região de montanha, o padrão é ser um pouco mais fresquinho que as 
 * Capa de chuva ou roupa impermeável (o tempo lá é conhecido por mudar rapidamente);
 * Mochila pequena [7].
 
-[6] Eu levei quase 2 litros, foi pouco. Eu suei horrores subindo a montanha e não era um dia de sol forte, estava mais para encoberto. Água lá é extremamente caro, idealmente traga água de Cusco (se tiver espaço na bagagem) ou então ao menos compre água em Águas Calientes. O preço da garrafinha de 600ml em Machu Piccho é o mesmo da garrafa de 2,5L em Águas Calientes, 8 Soles. Você deve conhecer o quanto de água você toma geralmente, deve levar em conta se esteve perdendo água recentemente (dica de quem esteve com infecção intestinal :P ) e também não exagerar no peso de tudo na mochila nas costas. Faça um balanço de tudo isso e decida quanto de água levar.
+[6] Eu levei quase 2 litros, foi pouco. Eu suei horrores subindo a montanha e não era um dia de sol forte, estava mais para encoberto. Água lá é extremamente caro, idealmente traga água de Cusco (se tiver espaço na bagagem) ou então ao menos compre água em Águas Calientes. O preço da garrafinha de 600ml em Machu Picchu é o mesmo da garrafa de 2,5L em Águas Calientes, 8 Soles. Você deve conhecer o quanto de água você toma geralmente, deve levar em conta se esteve perdendo água recentemente (dica de quem esteve com infecção intestinal :P ) e também não exagerar no peso de tudo na mochila nas costas. Faça um balanço de tudo isso e decida quanto de água levar.
 [7] Leve o mínimo de coisas com você, o peso fará diferença na subida e também não é permitido entrar com mochilas grandes no parque.
 
 
@@ -188,11 +212,11 @@ h3. Pré subida
 
 Eu decidi comprar o ingresso com a montanha meio que por acaso. Eu não consegui achar informações suficientes na internet para decidir se ia ou não subir a montanha (até por isso escrevo esse artigo), mas como a diferença do preço do ingresso era pequena, acabei comprando, mas foi bem aquilo "ah, sei lá, vai com montanha mesmo, na hora decido se subo ou não".
 
-A subida para mim foi um pouco mais difícil do que o normal. Eu fiquei com uma infecção intestinal praticamente a viagem toda, no dia da subida eu estava no Peru há praticamente 3 semanas e isso vai te debilitando. Claro que não é algo agradável, mas também não estava me impedindo de conhecer os lugares planejados, apesar da constante busca por banheiros hehe. Mas no dia da montanha eu estava me sentindo um pouco melhor. Além disso, eu também estava com minha máquina fotográfica que junto com a lente pesa uns 2kg. Quem mandou gostar de fotografia, hein? hahaha. Mas da para ser bem pior que isso, esse kit fotgráfico ainda da para dizer que é leve. Aí você junta isso com mais 2kg de água, capa de chuva, protetor, repelente, isso e aquilo e sua mochila vai pesando... Lembre-se de tentar ir o mais leve possível, se estiver em dupla ou grupo, distribua o peso entre todos.
+A subida para mim foi um pouco mais difícil do que o normal. Eu fiquei com uma infecção intestinal praticamente a viagem toda, no dia da subida eu estava no Peru há praticamente 3 semanas e isso vai te debilitando. Claro que não é algo agradável, mas também não estava me impedindo de conhecer os lugares planejados, apesar da constante busca por banheiros hehe. Mas no dia da montanha eu estava me sentindo um pouco melhor. Além disso, eu também estava com minha máquina fotográfica que junto com a lente pesa uns 2kg. Quem mandou gostar de fotografia, hein? hahaha. Mas da para ser bem pior que isso, esse kit fotográfico ainda da para dizer que é leve. Aí você junta isso com mais 2kg de água, capa de chuva, protetor, repelente, isso e aquilo e sua mochila vai pesando... Lembre-se de tentar ir o mais leve possível, se estiver em dupla ou grupo, distribua o peso entre todos.
 
 Logo que chegamos na cidadela, bem cedo pela manhã, a primeira coisa foi o passeio com o guia para conhecer os principais pontos da cidade inca, durou umas 2 horas. Durante o percurso, eu estava bem em dúvida se subia ou não, pois eu estava perdendo o fôlego com muita facilidade. Parecia pior que nas ilhas do Titicaca que ficam em uma altitude bem maior.
 
-Na minha cabeça, eu tava assim: "Bom, estou aqui, não sei se volto outra vez na vida aqui, tenho que aproveitar. Vamos ver no que vai dar... Eu até já paguei esse ingresso um pouco mais caro... Tenho que tentar, nem que seja subir um teco para ver como é e se cansar de mais é só voltar, sem crise." E além disso, eu também preciso ver se me sinto bem durante a subinda, já que estava fragilizado da infecção.
+Na minha cabeça, eu estava assim: "Bom, estou aqui, não sei se volto outra vez na vida aqui, tenho que aproveitar. Vamos ver no que vai dar... Eu até já paguei esse ingresso um pouco mais caro... Tenho que tentar, nem que seja subir um teco para ver como é e se cansar de mais é só voltar, sem crise." E além disso, eu também preciso ver se me sinto bem durante a subida, já que estava fragilizado da infecção.
 
 Antes de realmente começar a subida, eu fiz um "pit stop" para tirar o casaco (esquentou), passar repelente, protetor solar, ir ao banheiro e comer algo antes de subir (precisa sair do parque para esses dois últimos). 
 
@@ -201,74 +225,85 @@ h3. Lá vou eu subir a montanha
 
 Entrando novamente no parque, segui as placas e cheguei na tal portaria da Montanha. Lá você vai ter que mostrar seu ingresso, passaporte e colocar seu nome na lista com o horário de partida (quando você voltar, completará com o horário de saída).
 
-<!-- tinha uams gartoas, farncesas, que chegaram um pouco deposi de mim, mas aindadava pra ver, e um tempo depois elas me ultrapassaram... pouco importa... mas elas tava focadas, dizendo que tinham q subir e talz... la em ciam eu ecnotrei come elas.. haha elas tava lá tipo turando um cochilo deitadas no topo da montanha hahaha -->
+
+PRECISA DE UMA IAMGEM AQUI
+foto da placa indicando o caminho para MMP
+
 
 E aí a subida começa! Que visão você vai ter? Degraus!!! Infindáveis degraus durante todo o percurso. Tem que ser forte, mas devagar se chega ao topo.
 
-IMAGEM DO INÍCIO
 
-Foi muito interessante a subida analisando um ponto de vista que eu não esperava, as pessoas que estava por lá subindo. Claro, tinham os mais reservados, mas tinha muita gente bacana, feliz, motivada e te incentivando a conseguir chegar lá em cima também. Durante o percurso, eu encontrei com 12 outros brasileiros subindo a Montanha. Era bizaro, as vezes parecia que estava no Brasil subindo qualquer montanha em algum lugar que ainda restou um pouco de mata atlântica. 
+PRECISA DE UMA IAMGEM AQUI
+o que vc vai ver logo de cara? Degraus.
+
+
+Foi muito interessante a subida analisando um ponto de vista que eu não esperava, as pessoas que estava por lá subindo. Claro, tinham os mais reservados, mas tinha muita gente bacana, feliz, motivada e te incentivando a conseguir chegar lá em cima também. Durante o percurso, eu encontrei com 12 outros brasileiros subindo a Montanha. Era bizarro, as vezes parecia que estava no Brasil subindo qualquer montanha em algum lugar que ainda restou um pouco de mata atlântica. 
 
 Dois desses brasileiros (um moço e uma moça), tinham feito a trilha de Salkantay e disseram que lá eles sofreram, mas a Montanha eles pareceram tirar de letra, claro que cansaram, mas chegaram lá em cima sem dificuldades e bem mais rápido do que eu. Em compensação, tinha uma outra brasileira que sofreu bastante para chegar lá em cima, ela demorou mais do que eu, umas 2h30 para chegar no topo, e quando chegou lá estava destruída, chorando, ela deu uma exagerada. Mas ela estava com uma amiga, que já estava lá em cima, que cuidou dela e no fim deu tudo certo.
 
-Mas os gringos também davam aquela força, principalmente quando estava chegando mais perto do topo, claro que eu estava com aquela cara de cansado e vendo isso o pessoal sempre incentivava dizendo que faltava pouco, que tava chegando, "falta só mais 15 minutos", aí um pocuos depois, "falta só 10 minutos", mais um pouco e "falta 5 minutos, ta quease!". 
+PRECISA DE UMA IAMGEM AQUI
+degraus?
 
-Principalmente depois do meio da subida (com a cabeça de quem já chegou lá em cima e agora sabe +- onde era o meio), quando a gente começa a pensar, onde será que eu estou?, falta muito? Como será que fica o caminho mais para cima? Tinha um pessoal já voltando, dizendo "o caminho vai ficando cada vez mais ingrime, mas da pra subir". Isso não era lá muito animador, mas eu me sentia bem, já tinha subido bastante tempo, tinha que estar chegando, não ia parar ali... Mas agora você já sabe, quando o caminho vai ficando ingrime significa que você ta se aproximando do cume.
+Mas os gringos também davam aquela força, principalmente quando estava chegando mais perto do topo, claro que eu estava com aquela cara de cansado e vendo isso o pessoal sempre incentivava dizendo que faltava pouco, que tava chegando, "falta só mais 15 minutos", aí um pouco depois, "falta só 10 minutos", mais um pouco e "falta 5 minutos, ta quase!". 
 
-
-
-IMAGEM DO INÍCIO DEGRAUS
-
-
-VISTA
+Principalmente depois do meio da subida (com a cabeça de quem já chegou lá em cima e agora sabe mais ou menos onde era o meio), quando a gente começa a pensar, onde será que eu estou? Falta muito? Como será que fica o caminho mais para cima? Tinha um pessoal já voltando, dizendo "o caminho vai ficando cada vez mais íngreme, mas da pra subir". Isso não era lá muito animador, mas eu me sentia bem, já tinha subido bastante tempo, tinha que estar chegando, não ia parar ali... Mas agora você já sabe, quando o caminho vai ficando íngreme significa que você está se aproximando do cume.
 
 
-Não existem muitos "check points"/mirantes/lugar com algum espaço plano para você dar uma pausa durante a subida, que me lembro uns quatro. Mas também é possível ver a vista da cidadela e das montanhas ao redor durante boa parte do percurso, então vista legal você terá com frequência.
+IMAGEM DO DEGRAUS
+ver se tem mais íngremes, mais estreito
 
 
 
-IMAGEM DO INÍCIO DEGRAUS
+Não existem muitos "check points"/mirantes/lugar com algum espaço plano para você dar uma pausa durante a subida, que me lembro uns quatro. Mas também é possível ver a vista da cidadela e das montanhas ao redor durante boa parte do percurso, então vista legal você terá com frequência. Quando cansar, é só parar nos degraus mesmo, na maior parte do percurso, são largos o suficiente para passar mais de uma pessoa.
 
 
-VISTA
+PRECISA DE UMA IAMGEM AQUI
+VISTA da cidadela e das montanhas durante o caminho (com arbustos)
+
+
+No dia que eu estava lá, o guia comentou que os mosquitos atacam quando o sol sai de verdade, não quando fica nublado ou com neblina que foi o caso. Eu passei o repelente por precaução, mas não reparei nenhum mosquito por perto durante todo o dia. Foi bem tranquilo.
+
+Agora, apesar de não estar um calor forte e só de vez em quando o sol dar as caras, meu amigo, esquenta subir a montanha, o esforço é grande ou gigante (dependendo do seu preparo), e eu suei muuuuito. Se eu dava paradas para recuperar o fôlego, tomar água ou comer alguma coisa? Mas é claro! Incontáveis paradas hahaha E algumas delas para aproveitar a vista :)
 
 
 
-No dia que eu estava lá, o guia cometnou que os mosquitos atacam qunado o sol sai de verdade, não quando fica nublado ou com neblina que foi o caso. Eu passeio repelente por precausão, mas não reparei nenuhm mosquito por perto durante todo o dia. Foi bem tranquilo.
+PRECISA DE UMA IMAGEM AQUI
 
-Agora, apesar de não estar um calor forte e só de vez em quando o sol dar as caras, meu amigo, esquenta subir a montanha, o esfoço é grande ou gigante (dependendo do seu preparo), e eu suei muuuuito. Se eu dava paradas para recuperar o fôlego, tomar água ou comer alguma coisa? Mas é claro! Incontáveis paradas hahaha E algumas delas para aproveitar a vista :)
-
-
-
-
-IMAGEM DO INÍCIO DEGRAUS
-
-
-VISTA
+VISTA sem arbustos, mas durante a subida
+pode ser aquela q eu já editei pro curso
+ou um panorama daquele lugar no meio da subida.
 
 
 
 Acha que acabou? Mais uns degraus para vc...
 
 
-Ah, mas agora chegou, né Filipe? hum, não... mais uns degraus hahaha
+PRECISA DE UMA IMAGEM AQUI
+compilação de várias imagens de degraus
 
 
+Ah, mas agora chegou, né Filipe? hum, não... mais uns degraus :P
 
-Mas uma hora chega! Ou melhor, depois de 2:10 de subida, cheguei. É maravilhoso chegar. Lá em cima encontrei com o pessoal brasileiro que tinha me ultrapassado na subida e tiramos umas fotinhos um para os outros. Todo mundo feliz curtindo a vista e o momento. Depois das fotos, aproveitei para comer um pouco e perguntar uma coisa para o guardinha do parque que fica lá em cima: Quanto tempo você demora para subir? Primeiro ele me disse que varia muito, mas depois acabou falando uns tempos. Ele comentou "uns 40minutos, mas as vezes pode chegar a uma hora e meia, depende..." Acabou não me explicando exatamente do que depende tanto, mas deve ser das condições do tempo, se tiver muito quente, se tiver molhado e escorregadio, isso tudo deve atarasar a subida. Mas sentiu o drama né? O cara que faz isso todo dia, está acostumando com o percurso e com a altitude demora facilmente 40 minutos.
+
+PRECISA DE UMA IMAGEM AQUI
+Últimos degraus
+Talvez a vista da casinha a ao lado os últimos degraus pra chegar lá
+
+
+Mas uma hora chega! Ou melhor, depois de 2:10 de subida, cheguei. É maravilhoso chegar. Lá em cima encontrei com o pessoal brasileiro que tinha me ultrapassado na subida e tiramos umas fotinhos um para os outros. Todo mundo feliz curtindo a vista e o momento. Depois das fotos, aproveitei para comer um pouco e perguntar uma coisa para o guardinha do parque que fica lá em cima: Quanto tempo você demora para subir? Primeiro ele me disse que varia muito, mas depois acabou falando uns tempos. Ele comentou "uns 40minutos, mas as vezes pode chegar a uma hora e meia, depende..." Acabou não me explicando exatamente do que depende tanto, mas deve ser das condições do tempo, se tiver muito quente, se tiver molhado e escorregadio, isso tudo deve atrasar a subida. Mas sentiu o drama né? O cara que faz isso todo dia, está acostumando com o percurso e com a altitude demora facilmente 40 minutos.
 
 
 FOTOS DO TOPO
+pessoal tirando as fotos
+guardinha (ou botar a foto dele depois)
+o que tem no topo: cabana, mastro, pessoas de boa
+FOTO DEU LA EM CIMA, talvez deixar essa pro fim
 
 
-FOTO DEU LA EM CIMA
+Legenda da imagem talvez? --> O que tem lá no topo? Não tem muita coisa... tem um mastro (qdo eu fui sem bandeira) e um quiosque para dar uma descansada em algo coberto caso você queria. Não tem ruina inca lá em cima. Mas tem uma vista sensacional de Machu Picchu e de todas as montanhas nos arredores
 
-
-Leganda da imagem talvez? --> O que tem lá no topo? Não tem muita coisa... a vista sensacional de Machu Picchu e de todas as montanhas dos arredores, tem um mastro (qdo eu fui sem bandeira) e um quiosque para dar uma descansada em algo coberto caso você queria. Não tem ruina inca lá em cima.
-
-
-
-
+PRECISA DE UMA IMAGEM AQUI
+fotos da vista
 
 
 h3. A descida
@@ -276,94 +311,64 @@ h3. A descida
 
 Depois de apenas 20 minutos lá em cima o mesmo guardinha mandou todo mundo descer. Puxa, mas já? Pois é, já estava chegando perto (não tão perto, ele se excedeu um pouco) da hora em que fecha a parte da Montanha, então todo mundo tinha que descer. Fica um conselho importante, se planeje para subir no início do seu horário de subida para que você possa aproveitar o maior tempo possível lá em cima. Meu horário de início de subida era das 9h até 10h, cheguei por lá umas entre 9:20 e 9:30, se eu tivesse chegado à 9h, teria desfrutado de mais tempo lá em cima. Mas tudo bem, valeu do mesmo jeito. 
 
-Se você subir no primeiro horário, você terá bastante tempo de qualquer forma, pois o encerramento é depois dos dois ciclos. Entretanto, 
+
+PRECISA DE UMA IMAGEM AQUI
+O guardinha que te fazer descer
 
 
-Mas tenha em mente que vai ter gente subindo quando você provavlmente estiver descendo e nas regiões estreitas do percurso, isso pode não ser agradável, principalmente se você não se sente bem em altutude. Eu abri passagem várias vezes para o pessoal que descia, eu achava melhor simplesmente parar e esperar eles passarem com calma. Não só eu achava melhor, pois algumas pessoas até me agradeceram por isso. Eu estva do lado da montanha, então me encostava nela e era tranquilo, agora quem desce ia do outro lado, que não tem nada. Então considero um atitude bem legal facilitar para quem está descendo.
+Se você subir no primeiro horário, você terá bastante tempo de qualquer forma, pois o encerramento é depois dos dois ciclos. Mas tenha em mente que vai ter gente subindo quando você provavelmente estiver descendo e nas regiões estreitas do percurso, isso pode não ser agradável, principalmente se você não se sente bem em altitude. Eu abri passagem várias vezes para o pessoal que descia, eu achava melhor simplesmente parar e esperar eles passarem com calma. Não só eu achava melhor, pois algumas pessoas até me agradeceram por isso. Eu estava do lado da montanha, então me encostava nela e era tranquilo, agora quem desce ia do outro lado, que não tem nada. Então considero um atitude bem legal facilitar para quem está descendo.
 
 
-Treine antes de ir, melhore seu preparo físico. Eu não sou sedentário, mas também não aguento muito tempo de corrida (estava com 29 anos). E claro que a infecção não ajudou em nada né, eu estava debilitado. Mas a subida é extremamente desgastante e se você estiver com o preparo físico em dia, vai cehgar lá em cima mais rápido, aproveitar mais o topo e sofrer menos :)
+Treine antes de ir, melhore seu preparo físico. Eu não sou sedentário, mas também não aguento muito tempo de corrida (estava com 29 anos). E claro que a infecção não ajudou em nada né, eu estava debilitado. Mas a subida é extremamente desgastante e se você estiver com o preparo físico em dia, vai chegar lá em cima mais rápido, aproveitar mais o topo e sofrer menos :)
 
 
 <!-- TODO: e a subida da montanha terminou de dar o fatality em mim hahaha mais sobre os dias posteriores à montanha em X e Y... -->
 
-Para baixo todo santo ajuda? Sim contanto que suas pernas suportarem o esfoço. Eu nunca tinha sentido isso, mas uma delas começou a falhar, a travar, doía e ficava travada, credo, que coisa mais doida. Eu simpelesmente não estava mais conseguindo andar direito e para descer precisa ter muito cuidado pra não tropeçar e rolar escadarias abaixo. Mas com a perna travando daquele jeito, eu fiquei realmente assustado, eu pensava: "como que vou conseguir descer essa Montanha toda nesse estado?". 
-
-O que eu fiz? Bom, no primeiro espaço que deu, eu dei uma pausa (mal comecei a descer e tive que parar hahaha) e dei uma boa alongada nas pernas, pareceu que deu uma aliviada então voltei a descer. No início ainda incomodou um pouco, mas já tinha melhorado. Depois de um tempinho descendo ficou bom. Durante o trajeto, teve uma hora que a outra perna começou a dar o ar da graça, mas foi pouoc e voltou ao normal depois. Isso acabou gerando um pouco de tensão e acho que não aproveitei tanto a descida quanto a subida. 
-
-Um outro casal que estava por lá teve probelmas na descida também, a decida força bastante os joelhos né, então para eles estava doendo e tiveram que ir bem lentamente. 
-
-Minha descida levou 1h10 e depois do susto inical foi tudo bem, na hora de descer o fôlego não pegou, foram bem poucas as pausas, mais para apreciar a vista, tirar umas fotos.
+PRECISA DE UMA IMAGEM AQUI
+foto tirada pra baixo q tem pessoas e MP distante
 
 
+Para baixo todo santo ajuda? Sim contanto que suas pernas suportarem o esforço. Eu nunca tinha sentido isso, mas uma delas começou a falhar, a travar, doía e ficava travada, credo, que coisa mais doida. Eu simplesmente não estava mais conseguindo andar direito e para descer precisa ter muito cuidado pra não tropeçar e rolar escadarias abaixo. Mas com a perna travando daquele jeito, eu fiquei realmente assustado, eu pensava: "como que vou conseguir descer essa Montanha toda nesse estado?". 
+
+O que eu fiz? Bom, no primeiro espaço que deu, eu dei uma pausa (mal comecei a descer e tive que parar hahaha) e dei uma boa alongada nas pernas, pareceu que deu uma aliviada então voltei a descer. No início ainda incomodou um pouco, mas já tinha melhorado. Depois de um tempinho descendo ficou bom. Durante o trajeto, teve uma hora que a outra perna começou a dar o ar da graça, mas foi pouco e voltou ao normal depois. Isso acabou gerando um pouco de tensão e acho que não aproveitei tanto a descida quanto a subida. 
+
+Um outro casal que estava por lá teve problemas na descida também, a decida força bastante os joelhos né, então para eles estava doendo e tiveram que ir bem lentamente. 
+
+Minha descida levou 1h10 e depois do susto inicial foi tudo bem, na hora de descer o fôlego não pegou, foram bem poucas as pausas, mais para apreciar a vista e tirar umas fotos.
 
 
-!!
-onde botar que teve umas horas que a neblina deu uma voltada e tampo a vista?
-!!
+
 
 
 h3. Considerações finais
 
-Esgotado. Mas extremamente feliz por ter conseguido, por ter aproveitado aquele momento tão intensamente e vivido essa experiência. Valeu muito. Sinceramente eu não sei explicar exatamente o motivo disso. Por que raios alguém vai querer se desgastar loucamente para subir uma montanha? Não sei, mas sei que já vi algo parecido na TV outro dia sobre um pessoal que faz ultramaratona, eles tem um tipo de comportamento bem parecido. Eu to muito longe de um ultramaratonista, mas para mim essa subida deve ter sido algo parecido com o que um cara super treinado precisa de esfoço físico para estar nesse mesmo momento psicológico. Se alguém entende melhor sobre isso, posta nos comentários que eu quero saber e outros com certeza também!
+Esgotado. Mas extremamente feliz por ter conseguido, por ter aproveitado aquele momento tão intensamente e vivido essa experiência. Valeu muito. Sinceramente eu não sei explicar exatamente o motivo disso. Por que raios alguém vai querer se desgastar loucamente para subir uma montanha? Não sei, mas sei que já vi algo parecido na TV outro dia sobre um pessoal que faz ultramaratona, eles tem um tipo de comportamento bem parecido. Eu estou muito longe de um ultramaratonista, mas para mim essa subida deve ter sido algo parecido com o que um cara super treinado precisa de esforço físico para estar nesse mesmo momento psicológico. Se alguém entende melhor sobre isso, posta nos comentários que eu quero saber e outros com certeza também!
 
 
-Esse passeio é para você? Claro que sim!!! No pior caso, é simples, suba só o quanto você achar que deve, que era minha proposta inical. Enquanto se sentir bem vá indo, vai ser bacana :) A vista é legal, você está no meio da natureza. O que importa é você respeitar seus limites, isso é muito importante. Você não só pode como deve tentar se superar, mas não de forma inconsequente, respeite seus limites. Só da pra descobrir como é fazendo. Minhas expectativas eram baixas, mas fui surpreendido de um jeito e foi magnífico. Foi incrível, foi um momento mágico. Foi uma oportunidade única de esquecer da vida, superar um desafio e fazer uma coisa incrível, ao menos para mim.
+Esse passeio é para você? Claro que sim!!! No pior caso, é simples, suba só o quanto você achar que deve, que era minha proposta inicial. Enquanto se sentir bem vá indo, vai ser bacana :) A vista é legal, você está no meio da natureza. O que importa é você respeitar seus limites, isso é muito importante. Você não só pode como deve tentar se superar, mas não de forma inconsequente, respeite seus limites. Só da pra descobrir como é fazendo. Minhas expectativas eram baixas, mas fui surpreendido de um jeito e foi magnífico. Foi incrível, foi um momento mágico. Foi uma oportunidade única de esquecer da vida, superar um desafio e fazer uma coisa incrível, ao menos para mim.
 
 
 A vida muitas vezes é uma subida de Montanha Machu Picchu... Força!
 
 
-
-
-call to action pros comentários
-
-  
-
-
+PRECISA DE UMA IMAGEM AQUI
+imagem final
+- eu no topo?
+- vista de MP lá de cima com a moça brasileira
 
 
 
-Ler aqueles 3 links sobre as montanhas que eu achei (concorrentes)
-
-Ajeitar o site:
-- botar um link pra home com o nome do site no lugar de onde era o botão do menu
+Está querendo ir para Machu Picchu, se ficou alguma dúvida, deixe um comentários com ela. 
+Já foi para lá, como foi sua subida? Parecida com a minha ou totalmente diferente? Nos conte como foi nos comentários!
 
 
-- negritos para facilitar a leitura do texto
-- Arrumar tamanho de fonte das listas e da tabela
-- desencavalar o texto (h1,2 e 3 muito próximos do texto)
-- Caminho de pão
-- Personalizar o footer do artigo
-- colocar ga nos link do que "vc vai aprender lendo o artigo".  article_index_links, nome do post, nome do link
-- lirar o LáVouEu do fim do título. Não curti, come espaço do título 
-- precisa de mais contraste (sombras) nas letras na home qunado o texto fica com o fundo de nuvens.
-- ainda na home no texto, ñ precia daquele risco no fim dele e o posicionamento do texto tem q ficar em baixo tb na visão do cel (ta no meio da imagem)  mas qdo tirar o risco, o texto na home tem q cair mais um pouco também.
 
-IMGs:
-- Imagens da home
-- Imagem cabeçalho do artigo
-- Imagens do artigo
 
-Compilação aprimorada:
-- novo repositório pro código (bitbucket)
-- compilar local usando o -lsi (deixar na versão mais atual do jekyll)
-- site map
-- Esconder o email com o plugin
-- ver outras dicas e truques (ver em http://jekyll.tips e naquele projeto de layout bacana e tb talvez no jekyllboostrap se é q tem algo útil lá)
-- ver como automatizar a compilação com o Travis
 
-Extras:
-- Trocar a tipografia (ver os exemplos dos outros layouts legais)
-- Página do sobre mim e sobre o blog
-- Lista de emails
-- Compartilhamentos
-- Quando alguém seleciona um texto, ela pode marcar isso (precisa de BD né?), compartilhar esse trexo e quadno copiar, no cmd+c juntar tb algo como "veja/leia mais em: url do post"
-- o treco que reduz o tamanho das imagens arranca todas as minhas infos da imagem e ainda bota uma URL pra ele... ñ é legal isso. comparar os ganhos q teria salvando pra web e usando o ImageOptim
 
 <!-- 
 Fontes
-guia turistoco do passeio
+guia turistoco do passeio guaiado pela cidadela
 https://es.wikipedia.org/wiki/Distrito_de_Machupicchu
 https://en.wikipedia.org/wiki/Machu_Picchu
 folheto de MP
