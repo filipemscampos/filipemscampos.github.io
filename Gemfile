@@ -2,17 +2,15 @@ source 'https://rubygems.org'
 
 require 'json'
 require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
-gem 'github-pages', versions['github-pages'], group: :jekyll_plugins
 
-# gem "jekyll"
+gem "jekyll"
 
 gem 'html-proofer'
 gem 'jekyll-textile-converter'
 
 # Já está no pacote das gems do Github, mas quando sair de lá, descomentar aqui!! (ou se quiser escolher outra gem pra fazer a mesam coisa, mas essa parece suficeinte)
-# gem 'jekyll-redirect-from'
+gem 'jekyll-redirect-from'
 # Alternativas: 
 # https://github.com/nquinlan/jekyll-pageless-redirects/blob/master/pageless_redirects.rb
 # https://github.com/tsmango/jekyll_alias_generator/blob/master/alias_generator.rb

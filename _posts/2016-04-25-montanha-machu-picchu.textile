@@ -34,12 +34,8 @@ O que você vai aprender nesse artigo:
 * E, claro, muitas *fotos*!
 
 
-PRECISA DE UMA IAMGEM AQUI
-uma vista de MP pequena lá do alto da montanha
-hum!
-ou talvez a vista do parque todo! ilustra o parque
+!img/cidadela-de-machu-picchu-entrada-do-parque-onibus-lavoueu.jpg(Machu Picchu - A cidadela (2) e a da entrada do parque (1) vistos da Montanha Machu Picchu)!
 
-vista de mp sozinha foto nível 3estrela que aparece o "parque todo"
 
 <!-- TODO:
 O que você ainda pode aprender sobre o assunto no LáVouEu:
@@ -61,11 +57,13 @@ Machu Picchu foi uma cidade construída e habitada pelos incas ao redor do ano 1
 
 A cidadela é cercada por duas montanhas. A montanha de mesmo nome que a cidadela, portanto, Montanha Machu Picchu e a Montanha Huayna Picchu. A primeira, significa "velha montanha" e a segunda "jovem montanha". Você pode subir até o topo das duas e suas entradas ficam dentro do próprio parque. No mapa abaixo você consegue ter uma ideia melhor da localização da cidade inca e suas montanhas.
 
-PRECISA DE UMA IAMGEM AQUI
-colocar imagem esclarecedora do google earth
 
-Link do google maps para MP:
-https://www.google.com.br/maps/@-13.1617875,-72.5376554,3773m/data=!3m1!1e3    (satélite)
+!img/montanha-machu-picchu-huyna-pichu-cidadela-de-machu-picchu-aguas-calientes-lavoueu.jpg(Vista esclarecedora da região. Podemos observar Aguas Calientes (1), Cidadela de Machu Picchu (2), Montanha Machu Picchu (3) e Huayna Picchu (4))!
+<!--
+Na legenda
+ADICIONAR AINDA OS CRÉDITOS DO GOOGLE + PARCEIROS QUE NAO FICARAM VISÍVEIS NA IMAGEM!!!
+ Link do google maps para MP:
+https://www.google.com.br/maps/@-13.1617875,-72.5376554,3773m/data=!3m1!1e3    (satélite) -->
 
 Ao longo do texto, as imagens também vão te ajudar a entender melhor a região. Vamos agora conhecer cada uma das montanhas para poder decidir qual subir.
 
@@ -89,7 +87,16 @@ FOTO DE MP com indicação de Huayna
 
 A outra montanha fica exatamente na vista contrária, então vamos usar a vista do topo de Huayna Picchu para observar a Montanha Machu Picchu. Na imagem abaixo, você pode apreciar a vista que terá ao subir Huayna Picchu, que é uma vista reversa à imagem que estamos acostumados a ver a cidade inca. Nessa imagem é possível ter ideia da imensidão e beleza desse lugar, além de você poder conferir o topo da Montanha Machu Picchu que está indicado da imagem.
 
-BOTAR ESSA FOTO: https://en.wikipedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.jpg
+<!-- BOTAR ESSA FOTO: 
+https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.jpg
+https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit1.jpg
+https://commons.wikimedia.org/wiki/File:99_-_Machu_Picchu_-_Juin_2009.edit1.jpg#/media/File:99_-_Machu_Picchu_-_Juin_2009.edit1.jpg -->
+
+<!-- Colocar um link pra imagem em maior resolução abrindo em uma nova janaela para:
+Alta res (web): https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/99_-_Machu_Picchu_-_Juin_2009.edit1.jpg/1280px-99_-_Machu_Picchu_-_Juin_2009.edit1.jpg
+Full res: https://upload.wikimedia.org/wikipedia/commons/7/7b/99_-_Machu_Picchu_-_Juin_2009.edit1.jpg -->
+
+!img/panorama-vista-huayna-picchu_1024px-99_-_Machu_Picchu_-_Juin_2009.edit1.jpg(Vista panorâmica de Machu Picchu do ponto de vista de Huayna Picchu. Essa imagem não é minha, créditos: Martin St-Amant - Wikipedia - CC-BY-SA-3.0)!
 
 Eu subi a outra montanha, então não pude apreciar essa vista. Mas em compensação pude ver a cidadela em sua vista padrão ficar cada vez menor conforme subia a montanha. Também da para perceber facilmente que vamos ganhando altura, inclusive ultrapassando o topo de Huayna Picchu.
 
@@ -104,7 +111,7 @@ h3. O que o guia comentou e algumas informações a mais
 
 Durante o passeio guiado pela cidadela, o nosso guia comentou sobre as montanhas, principalmente quando passamos em frente ao caminho para a entrada de Huayna Picchu. O guia comentou que essa era a montanha mais procurada, por ter uma subida menos cansativa (menos demorada) que a outra, nessa hora ele deu um sorrisinho maroto, e aí pensei, "xi, tô lascado" hehehe. Ele comentou também que na Montanha Machu Picchu as pessoas em geral demoram só para subir em torno de 1h30 a 2h, e eu te confirmo essa informação (quanto eu demorei? continue a leitura...). Tentando animar um pouco as prováveis caras tristes que ele deve ter visto, completou dizendo que a Montanha Machu Picchu era o único lugar do parque que se pode ter uma visão 360 graus da região. Não sei ao certo por que não seria possível ter uma vista 360° no topo de Huayna Picchu, se você souber, deixa um comentário!
 
-TENHO UMA FOTO DA ENTRADA DE HUYAINA PICCHU  8854
+!img/entrada-huayna-picchu-lavoueu.jpg(Entrada de Huayna Picchu)!
 
 Ele também nos contou duas histórias de acidentes em Huayna Picchu. A primeira foi uma pessoa que caiu da montanha. Felizmente ela teve sorte e caiu em cima de árvores que amorteceram a queda e a pessoa sobreviveu depois de ser resgatada. Já na outra história, um senhor de mais idade conseguiu chegar até o topo, mas durante a descida, já perto do fim, ele desequilibrou e quase caiu abismo abaixo, claro que isso gera uma tensão e um pico no batimento cardíaco, foi o suficiente para o senhor enfartar e falecer. Enfim, histórias... 
 
@@ -226,8 +233,7 @@ h3. Lá vou eu subir a montanha
 Entrando novamente no parque, segui as placas e cheguei na tal portaria da Montanha. Lá você vai ter que mostrar seu ingresso, passaporte e colocar seu nome na lista com o horário de partida (quando você voltar, completará com o horário de saída).
 
 
-PRECISA DE UMA IAMGEM AQUI
-foto da placa indicando o caminho para MMP
+!img/caminho-para-montanha-machu-picchu-lavoueu.jpg(Montanha, lá vou eu!)!
 
 
 E aí a subida começa! Que visão você vai ter? Degraus!!! Infindáveis degraus durante todo o percurso. Tem que ser forte, mas devagar se chega ao topo.
