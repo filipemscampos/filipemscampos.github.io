@@ -1,8 +1,0 @@
----
-layout: page
-title: Obrigado!
-permalink: /obrigado/
-feature_image: feature-laptop
----
-
-Sua mensagem foi enviada com sucesso. Obrigado pelo seu contato!
