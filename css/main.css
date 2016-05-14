@@ -7571,16 +7571,16 @@ ol {
     .sidebar {
       width: 464px; } }
   .sidebar .site-info {
-    padding: 90px 15px 0 15px;
+    padding: 195px 15px 0 15px;
     color: #fafafa; }
     @media (min-width: 768px) {
       .sidebar .site-info {
-        padding: 180px 100px 0 100px; } }
+        padding: 280px 100px 0 100px; } }
     @media (min-width: 992px) {
       .sidebar .site-info {
         padding: 0 20px;
         position: absolute;
-        bottom: 40px; } }
+        bottom: 10px; } }
     @media (min-width: 1200px) {
       .sidebar .site-info {
         padding: 0 30px; } }
@@ -7596,7 +7596,7 @@ ol {
           font-size: 3.4rem; } }
     .sidebar .site-info p {
       margin-bottom: 10px;
-      text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+      text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
       line-height: 24px;
       line-height: 2.4rem;
       font-size: 16px;
@@ -7604,13 +7604,11 @@ ol {
     .sidebar .site-info i {
       font-style: normal;
       margin-right: 10px; }
-    .sidebar .site-info .primary-info {
-      border-bottom: solid 1px rgba(255, 255, 255, 0.3); }
-      .sidebar .site-info .primary-info a {
-        color: #E0E0E0; }
-      .sidebar .site-info .primary-info a:hover,
-      .sidebar .site-info .primary-info a:active {
-        color: #fafafa; }
+    .sidebar .site-info .primary-info a {
+      color: #E0E0E0; }
+    .sidebar .site-info .primary-info a:hover,
+    .sidebar .site-info .primary-info a:active {
+      color: #fafafa; }
     .sidebar .site-info .secondary-info p {
       margin: 20px 0 0;
       font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
@@ -8261,3 +8259,20 @@ header .blog-name {
 
 footer.single .categoria-tag p {
   display: inline; }
+
+.post p {
+  text-align: justify; }
+
+.figure {
+  display: inline-block; }
+
+.figure-img {
+  margin-bottom: .5rem;
+  line-height: 1; }
+
+.figure-caption {
+  font-size: 90%;
+  color: #818a91; }
+
+.img-rounded {
+  border-radius: 4px; }
