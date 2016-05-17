@@ -7572,8 +7572,14 @@ ol {
     .sidebar {
       width: 464px; } }
   .sidebar .site-info {
-    padding: 195px 15px 0 15px;
+    padding: 170px 15px 0 15px;
     color: #fafafa; }
+    @media (min-width: 390px) {
+      .sidebar .site-info {
+        padding: 185px 15px 0 15px; } }
+    @media (min-width: 504px) {
+      .sidebar .site-info {
+        padding: 195px 15px 0 15px; } }
     @media (min-width: 768px) {
       .sidebar .site-info {
         padding: 280px 100px 0 100px; } }
