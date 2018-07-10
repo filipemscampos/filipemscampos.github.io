@@ -4,7 +4,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Droid+Serif:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Droid+Serif:400,400italic,700);
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext");
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
@@ -8423,3 +8424,186 @@ figcaption {
   figcaption {
     font-size: 17px;
     font-size: 1.7rem; } }
+#mlb2-7934730,
+#mlb2-7934730 *,
+#mlb2-7934730 a:hover,
+#mlb2-7934730 a:visited,
+#mlb2-7934730 a:focus,
+#mlb2-7934730 a:active {
+  overflow: visible;
+  position: static;
+  background: none;
+  border: none;
+  bottom: auto;
+  clear: none;
+  cursor: default;
+  float: none;
+  letter-spacing: normal;
+  line-height: normal;
+  text-align: left;
+  text-indent: 0;
+  text-transform: none;
+  visibility: visible;
+  white-space: normal;
+  max-height: none;
+  max-width: none;
+  left: auto;
+  min-height: 0;
+  min-width: 0;
+  right: auto;
+  top: auto;
+  width: auto;
+  z-index: auto;
+  text-shadow: none;
+  box-shadow: none;
+  outline: medium none; }
+
+#mlb2-7934730 a:hover {
+  cursor: pointer !important; }
+
+#mlb2-7934730 h4 {
+  font-weight: normal; }
+
+#mlb2-7934730 .subscribe-form {
+  padding: 20px;
+  border: 0px solid #F6F6F6 !important;
+  background: #FFFFFF none !important;
+  border-radius: 0px !important;
+  box-sizing: border-box !important; }
+
+#mlb2-7934730 .ml-block-form {
+  margin-bottom: 0px; }
+
+#mlb2-7934730 .subscribe-form .form-section {
+  margin-bottom: 20px;
+  width: 100%; }
+
+#mlb2-7934730 .subscribe-form .form-section.mb10 {
+  margin-bottom: 10px;
+  float: left; }
+
+#mlb2-7934730 .subscribe-form .form-section.mb0 {
+  margin-bottom: 0px; }
+
+#mlb2-7934730 .subscribe-form .form-section h4 {
+  margin: 0px 0px 10px 0px !important;
+  padding: 0px !important;
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 28px !important;
+  line-height: 100%;
+  text-align: center !important; }
+
+#mlb2-7934730 .subscribe-form .form-section p,
+#mlb2-7934730 .subscribe-form .form-section li {
+  line-height: 150%;
+  padding: 0px !important;
+  margin: 0px 0px 10px 0px;
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important; }
+
+#mlb2-7934730 .subscribe-form .form-section a {
+  font-size: 14px !important; }
+
+#mlb2-7934730 .subscribe-form .form-section .confirmation_checkbox {
+  line-height: 150%;
+  padding: 0px !important;
+  margin: 0px 0px 15px 0px !important;
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 12px !important;
+  font-weight: normal !important; }
+
+#mlb2-7934730 .subscribe-form .form-section .confirmation_checkbox input[type="checkbox"] {
+  margin-right: 5px !important; }
+
+#mlb2-7934730 .subscribe-form .form-section .form-group {
+  margin-bottom: 15px; }
+
+#mlb2-7934730 .subscribe-form .form-section .form-group label {
+  float: left;
+  margin-bottom: 10px;
+  width: 100%;
+  line-height: 100%;
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important; }
+
+#mlb2-7934730 .subscribe-form .form-section .checkbox {
+  width: 100%;
+  margin: 0px 0px 10px 0px; }
+
+#mlb2-7934730 .subscribe-form .form-section .checkbox label {
+  color: #000000 !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important; }
+
+#mlb2-7934730 .subscribe-form .form-section .checkbox input {
+  margin: 0px 5px 0px 0px; }
+
+#mlb2-7934730 .subscribe-form .form-section .checkbox input[type=checkbox] {
+  -webkit-appearance: checkbox;
+  opacity: 1; }
+
+#mlb2-7934730.ml-subscribe-form .form-group .form-control {
+  width: 100%;
+  font-size: 13px;
+  padding: 10px 10px;
+  height: auto;
+  font-family: Arial;
+  border-radius: 0px;
+  border: 1px solid #cccccc !important;
+  color: #000000 !important;
+  background-color: #FFFFFF !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  clear: left; }
+
+#mlb2-7934730.ml-subscribe-form button {
+  border: none !important;
+  cursor: pointer !important;
+  width: 100% !important;
+  border-radius: 0px !important;
+  height: 40px !important;
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+  font-family: 'Arial', sans-serif !important;
+  font-size: 16px !important;
+  text-align: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  position: relative !important; }
+
+#mlb2-7934730.ml-subscribe-form button.gradient-on {
+  background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.2) 100%);
+  background: -o-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.2) 100%);
+  background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.2) 100%);
+  background: linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.2) 100%); }
+
+#mlb2-7934730.ml-subscribe-form button.gradient-on:hover {
+  background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.3) 100%);
+  background: -o-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.3) 100%);
+  background: -moz-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.3) 100%);
+  background: linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.3) 100%); }
+
+#mlb2-7934730.ml-subscribe-form button[disabled] {
+  cursor: not-allowed !important; }
+
+#mlb2-7934730.ml-subscribe-form .form-section.ml-error label {
+  color: red !important; }
+
+#mlb2-7934730.ml-subscribe-form .form-group.ml-error label {
+  color: red !important; }
+
+#mlb2-7934730.ml-subscribe-form .form-group.ml-error .form-control {
+  border-color: red !important; }
+
+@media (max-width: 768px) {
+  #mlb2-7934730 {
+    width: 100% !important; }
+
+  #mlb2-7934730 form.ml-block-form,
+  #mlb2-7934730.ml-subscribe-form .subscribe-form {
+    width: 100% !important; } }
